@@ -9,5 +9,5 @@ def my_collect(collection)
     i += 1
   end
 
-  new_collect
+  return new_collect
 end
